@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:101010,100:FF7A24&height=220&section=header&text=SALIMKHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Salimkhan — Frontend Developer" />
+<img src="./assets/profile-header.svg" width="100%" alt="Salimkhan — Frontend Developer" />
 
 ### Building interfaces. Turning ideas into reality.
 
