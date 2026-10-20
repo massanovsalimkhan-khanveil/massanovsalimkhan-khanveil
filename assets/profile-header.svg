@@ -7,8 +7,8 @@
       <stop offset="1" stop-color="#1B1B1F"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F0D58A"/>
-      <stop offset="1" stop-color="#C99A3B"/>
+      <stop offset="0" stop-color="#FFE08A"/>
+      <stop offset="1" stop-color="#F2AE24"/>
     </linearGradient>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".04" stroke-width="1"/>
@@ -18,20 +18,20 @@
   <g clip-path="url(#clip)">
     <rect width="1200" height="300" fill="url(#bg)"/>
     <rect width="1200" height="300" fill="url(#grid)"/>
-    <path d="M930 0H1200V300H1080L960 180L1040 100Z" fill="#D5AD58" opacity=".09"/>
+    <path d="M930 0H1200V300H1080L960 180L1040 100Z" fill="#FFC247" opacity=".09"/>
     <path d="M1080 0H1200V300H1160L1035 168Z" fill="url(#gold)" opacity=".88"/>
     <path d="M1140 0H1200V300H1180L1050 155Z" fill="#101010" opacity=".84"/>
-    <path d="M900 0L1120 300" stroke="#F0D58A" stroke-width="2" opacity="0">
+    <path d="M900 0L1120 300" stroke="#FFE08A" stroke-width="2" opacity="0">
       <animate attributeName="opacity" values="0;0.32;0" dur="5s" repeatCount="indefinite"/>
     </path>
-    <path d="M920 0L1140 300" stroke="#F0D58A" stroke-width="2" opacity="0">
+    <path d="M920 0L1140 300" stroke="#FFE08A" stroke-width="2" opacity="0">
       <animate attributeName="opacity" values="0;0;0.26;0" dur="5s" repeatCount="indefinite"/>
     </path>
-    <circle cx="82" cy="74" r="4" fill="#D5AD58"/>
+    <circle cx="82" cy="74" r="4" fill="#FFC247"/>
     <text x="82" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">SALIMKHAN</text>
-    <text x="86" y="190" fill="#E0BD68" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="5">FRONTEND DEVELOPER</text>
+    <text x="86" y="190" fill="#FFD166" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="5">FRONTEND DEVELOPER</text>
     <text x="86" y="230" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".6">Building interfaces. Turning ideas into reality.</text>
-    <text x="86" y="255" fill="#A7A7A7" font-family="monospace" font-size="12" letter-spacing="1.6">REACT  /  TYPESCRIPT  /  JAVASCRIPT</text>
-    <text x="86" y="277" fill="#D5AD58" font-family="monospace" font-size="12" letter-spacing="1.6">PYTHON  /  DJANGO  /  MYSQL  /  SQLITE</text>
+    <text x="86" y="255" fill="#E2E2E2" font-family="monospace" font-size="12" letter-spacing="1.6">REACT  /  TYPESCRIPT  /  JAVASCRIPT</text>
+    <text x="86" y="277" fill="#FFC247" font-family="monospace" font-size="12" letter-spacing="1.6">PYTHON  /  DJANGO  /  MYSQL  /  SQLITE</text>
   </g>
 </svg>
