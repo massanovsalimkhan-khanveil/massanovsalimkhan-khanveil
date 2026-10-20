@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Salimkhan — Frontend Developer</title>
-  <desc id="desc">A black banner with gold accents, clear typography, and a subtle animated highlight on the right.</desc>
+  <desc id="desc">A black banner with gold accents, clear typography, and subtle animated highlights on the right.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B0B0D"/>
@@ -21,11 +21,10 @@
     <path d="M930 0H1200V300H1080L960 180L1040 100Z" fill="#D5AD58" opacity=".09"/>
     <path d="M1080 0H1200V300H1160L1035 168Z" fill="url(#gold)" opacity=".88"/>
     <path d="M1140 0H1200V300H1180L1050 155Z" fill="#101010" opacity=".84"/>
-    <path d="M0 270H690" stroke="#D5AD58" stroke-width="3"/>
-    <path d="M900 0L1120 300" stroke="#F0D58A" stroke-width="2" opacity=".0">
+    <path d="M900 0L1120 300" stroke="#F0D58A" stroke-width="2" opacity="0">
       <animate attributeName="opacity" values="0;0.32;0" dur="5s" repeatCount="indefinite"/>
     </path>
-    <path d="M920 0L1140 300" stroke="#F0D58A" stroke-width="2" opacity=".0">
+    <path d="M920 0L1140 300" stroke="#F0D58A" stroke-width="2" opacity="0">
       <animate attributeName="opacity" values="0;0;0.26;0" dur="5s" repeatCount="indefinite"/>
     </path>
     <circle cx="82" cy="74" r="4" fill="#D5AD58"/>
