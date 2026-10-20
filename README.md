@@ -54,6 +54,14 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 - **Consistency** — progress comes from building and improving.
 - **Curiosity** — every project is an opportunity to learn something new.
 
+## `04` / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=massanovsalimkhan-khanveil&bg_color=101010&color=FFFFFF&line=FF7A24&point=FF7A24&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
 ## `04` / CURRENT MINDSET
 
 ```text
