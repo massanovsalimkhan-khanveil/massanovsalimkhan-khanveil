@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/massanovsalimkhan-khanveil/massanovsalimkhan-khanveil/main/assets/profile-header.svg?v=69323038" width="100%" alt="Salimkhan — Frontend Developer" />
+<img src="https://raw.githubusercontent.com/massanovsalimkhan-khanveil/massanovsalimkhan-khanveil/main/assets/profile-header-animated.gif" width="100%" alt="Salimkhan — Frontend Developer" />
 
 ### Building interfaces. Turning ideas into reality.
 
