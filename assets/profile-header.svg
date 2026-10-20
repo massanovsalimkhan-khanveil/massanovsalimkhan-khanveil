@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Salimkhan — Frontend Developer</title>
+  <desc id="desc">A dark charcoal banner with orange geometric accents and minimalist typography.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101010"/>
+      <stop offset="1" stop-color="#191919"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF9A4A"/>
+      <stop offset="1" stop-color="#FF6A1A"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="10" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="10" fill="url(#grid)"/>
+  <path d="M900 0H1200V300H1030L930 200L1010 120Z" fill="#FF7A24" opacity=".10"/>
+  <path d="M1050 0H1200V300H1145L1015 170Z" fill="url(#accent)" opacity=".92"/>
+  <path d="M1120 0H1200V300H1182L1050 155Z" fill="#101010" opacity=".82"/>
+  <path d="M0 270H690" stroke="#FF7A24" stroke-width="3"/>
+  <circle cx="82" cy="74" r="5" fill="#FF7A24"/>
+  <text x="82" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">SALIMKHAN</text>
+  <text x="86" y="190" fill="#FF8A3D" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="5">FRONTEND DEVELOPER</text>
+  <text x="86" y="230" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".6">Building interfaces. Turning ideas into reality.</text>
+  <text x="86" y="272" fill="#777777" font-family="monospace" font-size="12" letter-spacing="2">REACT  /  TYPESCRIPT  /  JAVASCRIPT</text>
+</svg>
