@@ -31,6 +31,7 @@
     <text x="82" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">SALIMKHAN</text>
     <text x="86" y="190" fill="#E0BD68" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="5">FRONTEND DEVELOPER</text>
     <text x="86" y="230" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".6">Building interfaces. Turning ideas into reality.</text>
-    <text x="86" y="272" fill="#A7A7A7" font-family="monospace" font-size="12" letter-spacing="2">REACT  /  TYPESCRIPT  /  JAVASCRIPT</text>
+    <text x="86" y="255" fill="#A7A7A7" font-family="monospace" font-size="12" letter-spacing="1.6">REACT  /  TYPESCRIPT  /  JAVASCRIPT</text>
+    <text x="86" y="277" fill="#D5AD58" font-family="monospace" font-size="12" letter-spacing="1.6">PYTHON  /  DJANGO  /  MYSQL  /  SQLITE</text>
   </g>
 </svg>
